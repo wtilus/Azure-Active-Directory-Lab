@@ -59,12 +59,12 @@ This project is a walkthorugh on how to set up an Active Directory lab in Micros
 **Step 3: Create Domain Controller 1** [4:11](https://loom.com/share/dfc7bab6d55b4f9a954a11c9e1fff671?t=251)
 
 - Click on 'Create a virtual machine'.
-- Select the resource group 'AD Lab'.
+- Select the resource group 'ADLAB'.
 - Name the VM 'DC1'.
 - Create an availability set for redundancy.
 - Choose 'Windows Server 2019 Datacenter' as the image.
 - Set size to 2 virtual CPUs and 8 GB RAM.
-- Set username to 'John Doe' and use a secure password.
+- Set username to 'JDoe' and use a secure password.
 - Enable Remote Desktop access.
 
 **Step 4: Configure Disk and Networking** [5:38](https://loom.com/share/dfc7bab6d55b4f9a954a11c9e1fff671?t=338)
