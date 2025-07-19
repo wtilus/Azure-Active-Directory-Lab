@@ -85,6 +85,7 @@ This project is a walkthorugh on how to set up an Active Directory lab in Micros
 
 **Step 6: Install Active Directory Role** [15:32](https://loom.com/share/dfc7bab6d55b4f9a954a11c9e1fff671?t=932)
 
+- Format the F: Disk drive for Active Directory.
 - Open Server Manager.
 - Select 'Add Roles and Features'.
 - Follow the prompts to install Active Directory.
@@ -100,7 +101,7 @@ This project is a walkthorugh on how to set up an Active Directory lab in Micros
 **Step 8: Create Domain Controller 2** [22:36](https://loom.com/share/dfc7bab6d55b4f9a954a11c9e1fff671?t=1356)
 
 - Repeat the process to create a second virtual machine named 'DC2'.
-- Use the same configurations as DC1.
+- Use the same configurations as DC1. 
 - Attach the internal network interface.
 - Start the VM and connect via RDP.
 
